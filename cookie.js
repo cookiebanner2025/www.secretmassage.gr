@@ -169,7 +169,7 @@ clarityConfig: {
         showAdminButton: false,
         floatingButtonPosition: 'left',
         adminButtonPosition: 'left',
-        bannerPosition: 'left',
+        bannerPosition: 'right',
         bannerAnimation: {
             duration: 0.4,
             easing: 'cubic-bezier(0.25, 0.8, 0.25, 1)',
